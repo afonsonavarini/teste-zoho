@@ -217,11 +217,16 @@ body {
     justify-content: center;
 }
 
-.header-second-side {
+.header-options {
     display: flex;
     font-size: 18px;
     margin-right: 30px;
+    list-style: none;
 
+}
+
+.header-span {
+    text-decoration: none;
 }
 
 .arrow {
